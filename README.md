@@ -1,5 +1,5 @@
 # Caso Adquisición de Crédito Hipotecario
-Curso Metodos Supervisados DMC
+Curso Metodos Supervisados del PEA Advanced Data Science - DMC
 
 Para desarrollar el caso, puede utilizar la versión gratuita en cloud de Jupyter. Ingrese a: https://jupyter.org/try y elija la opción "Try JupyterLab"
 
